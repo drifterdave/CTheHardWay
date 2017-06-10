@@ -2,7 +2,7 @@
 
 int main(int argc, char *argv[])
 {
-	int age = 15;
+	int age = 16;
 	int height = 72;
 
 	printf("I am %d years old.\n", age);
